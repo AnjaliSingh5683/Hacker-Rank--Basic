@@ -1,0 +1,1 @@
+# Hacker-Rank-q1.java-Stdin-and-Stdout
